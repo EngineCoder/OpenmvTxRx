@@ -1,2 +1,3 @@
-#Coding of Arduino with openmv by json
-
+openmv识别球
+抓取小球坐标并发送给arduino
+代码示例
